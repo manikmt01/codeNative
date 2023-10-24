@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4D61CC23-B7AC-4A39-8D01-BF8FA9EB1794</title>
+    <defs>
+        <polygon id="path-1" points="241 115 1421 115 1421 930 241 930"></polygon>
+        <filter x="-3.8%" y="-5.5%" width="107.6%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-languages" transform="translate(-712.500000, -346.500000)">
+            <rect fill="#262262" x="0" y="0" width="1661" height="1044"></rect>
+          
+            <g id="Choose-languages" transform="translate(286.000000, 292.000000)">
+                <g id="field/icon-toggle" transform="translate(412.000000, 43.000000)">
+                    <rect id="Rectangle" fill="#F5F7FA" x="0" y="0" width="402" height="45" rx="2"></rect>
+                    <g id="8096220_usa_flag_icon" transform="translate(14.500000, 11.500000)">
+                        <path d="M14.3,0.55 L14.3,0.5049 C13.2583,0.17765 12.15005,0 11,0 C4.9247,0 0,4.9247 0,11 C0,11.37125 0.0198,11.7381 0.05555,12.1 L14.3,12.1 L14.3,0.55 Z" id="Path" fill="#3F51B5" fill-rule="nonzero"></path>
+                        <path d="M14.42265,0.55 C14.38085,0.53625 14.3418,0.5181 14.3,0.5049 L14.3,0.55 L14.42265,0.55 Z" id="Path"></path>
+                        <path d="M14.3,3.85 L19.349,3.85 C18.82265,3.2362 18.2281,2.68565 17.57965,2.2 L14.3,2.2 L14.3,3.85 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M21.94445,12.1 L14.3,12.1 L0.05555,12.1 C0.11165,12.6654 0.2222,13.2132 0.3608,13.75 L21.63975,13.75 C21.7778,13.2132 21.88835,12.6654 21.94445,12.1 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M18.84905,18.7 L3.15095,18.7 C3.7708,19.33195 4.46985,19.88195 5.2261,20.35 L16.7739,20.35 C17.53015,19.88195 18.2292,19.33195 18.84905,18.7 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M21.07875,15.4 L0.92125,15.4 C1.1737,15.9775 1.474,16.52915 1.81775,17.05 L20.18225,17.05 C20.526,16.52915 20.82575,15.9775 21.07875,15.4 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M14.3,7.15 L21.2938,7.15 C21.07875,6.5758 20.82025,6.02415 20.51665,5.5 L14.3,5.5 L14.3,7.15 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M14.3,10.45 L21.9725,10.45 C21.94445,9.889 21.88835,9.3357 21.77945,8.8 L14.3,8.8 L14.3,10.45 Z" id="Path" fill="#ECEFF1" fill-rule="nonzero"></path>
+                        <path d="M14.3,2.2 L17.5802,2.2 C16.63255,1.4905 15.57215,0.9262 14.42265,0.55 L14.3,0.55 L14.3,2.2 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M14.3,5.5 L20.51665,5.5 C20.1773,4.9137 19.78735,4.3615 19.34955,3.85 L14.3,3.85 L14.3,5.5 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M14.3,8.8 L21.7789,8.8 C21.6634,8.2313 21.4929,7.6835 21.29325,7.15 L14.3,7.15 L14.3,8.8 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M14.3,12.1 L21.94445,12.1 C21.9802,11.7381 22,11.37125 22,11 C22,10.8141 21.9813,10.63315 21.9725,10.45 L14.3,10.45 L14.3,12.1 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M21.6392,13.75 L0.3608,13.75 C0.5071,14.31815 0.69025,14.87145 0.9218,15.4 L21.07875,15.4 C21.30975,14.87145 21.4929,14.31815 21.6392,13.75 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M20.18225,17.05 L1.81775,17.05 C2.2088,17.6429 2.6554,18.1951 3.15095,18.7 L18.8496,18.7 C19.3446,18.1951 19.7912,17.6429 20.18225,17.05 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <path d="M5.2261,20.35 C6.9058,21.3895 8.8792,22 11,22 C13.1208,22 15.0942,21.3895 16.7739,20.35 L5.2261,20.35 Z" id="Path" fill="#F44336" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.4375 4.95 3.69325 5.4934 4.2625 5.5792 3.85 6.0027 3.949 6.6 3.4375 6.3184 2.926 6.6 3.025 6.0027 2.6125 5.5792 3.18175 5.4934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="5.6375 4.95 5.89325 5.4934 6.4625 5.5792 6.05 6.0027 6.149 6.6 5.6375 6.3184 5.126 6.6 5.225 6.0027 4.8125 5.5792 5.38175 5.4934"></polygon>
+                        <path d="M1.2375,6.3184 L1.749,6.6 L1.65,6.0027 L2.0625,5.5792 L1.49325,5.4934 L1.49105,5.4879 C1.30955,5.8003 1.1429,6.12205 0.9922,6.45315 L1.2375,6.3184 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.8375 4.95 8.09325 5.4934 8.6625 5.5792 8.25 6.0027 8.349 6.6 7.8375 6.3184 7.326 6.6 7.425 6.0027 7.0125 5.5792 7.58175 5.4934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.0375 4.95 10.29325 5.4934 10.8625 5.5792 10.45 6.0027 10.549 6.6 10.0375 6.3184 9.526 6.6 9.625 6.0027 9.2125 5.5792 9.78175 5.4934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.1 4.95 12.35575 5.4934 12.925 5.5792 12.5125 6.0027 12.6115 6.6 12.1 6.3184 11.5885 6.6 11.6875 6.0027 11.275 5.5792 11.84425 5.4934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.4375 9.35 3.69325 9.8934 4.2625 9.9792 3.85 10.4027 3.949 11 3.4375 10.7184 2.926 11 3.025 10.4027 2.6125 9.9792 3.18175 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="5.6375 9.35 5.89325 9.8934 6.4625 9.9792 6.05 10.4027 6.149 11 5.6375 10.7184 5.126 11 5.225 10.4027 4.8125 9.9792 5.38175 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.8375 9.35 8.09325 9.8934 8.6625 9.9792 8.25 10.4027 8.349 11 7.8375 10.7184 7.326 11 7.425 10.4027 7.0125 9.9792 7.58175 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="1.2375 9.35 1.49325 9.8934 2.0625 9.9792 1.65 10.4027 1.749 11 1.2375 10.7184 0.726 11 0.825 10.4027 0.4125 9.9792 0.98175 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.0375 9.35 10.29325 9.8934 10.8625 9.9792 10.45 10.4027 10.549 11 10.0375 10.7184 9.526 11 9.625 10.4027 9.2125 9.9792 9.78175 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.1 9.35 12.35575 9.8934 12.925 9.9792 12.5125 10.4027 12.6115 11 12.1 10.7184 11.5885 11 11.6875 10.4027 11.275 9.9792 11.84425 9.8934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.9875 7.15 4.24325 7.6934 4.8125 7.7792 4.4 8.2027 4.499 8.8 3.9875 8.5184 3.476 8.8 3.575 8.2027 3.1625 7.7792 3.73175 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6.1875 7.15 6.44325 7.6934 7.0125 7.7792 6.6 8.2027 6.699 8.8 6.1875 8.5184 5.676 8.8 5.775 8.2027 5.3625 7.7792 5.93175 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="1.7875 7.15 2.04325 7.6934 2.6125 7.7792 2.2 8.2027 2.299 8.8 1.7875 8.5184 1.276 8.8 1.375 8.2027 0.9625 7.7792 1.53175 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="8.3875 7.15 8.64325 7.6934 9.2125 7.7792 8.8 8.2027 8.899 8.8 8.3875 8.5184 7.876 8.8 7.975 8.2027 7.5625 7.7792 8.13175 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.5875 7.15 10.84325 7.6934 11.4125 7.7792 11 8.2027 11.099 8.8 10.5875 8.5184 10.076 8.8 10.175 8.2027 9.7625 7.7792 10.33175 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.65 7.15 12.90575 7.6934 13.475 7.7792 13.0625 8.2027 13.1615 8.8 12.65 8.5184 12.1385 8.8 12.2375 8.2027 11.825 7.7792 12.39425 7.6934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.9875 2.75 4.24325 3.2934 4.8125 3.3792 4.4 3.8027 4.499 4.4 3.9875 4.1184 3.476 4.4 3.575 3.8027 3.1625 3.3792 3.73175 3.2934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6.1875 2.75 6.44325 3.2934 7.0125 3.3792 6.6 3.8027 6.699 4.4 6.1875 4.1184 5.676 4.4 5.775 3.8027 5.3625 3.3792 5.93175 3.2934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="8.3875 2.75 8.64325 3.2934 9.2125 3.3792 8.8 3.8027 8.899 4.4 8.3875 4.1184 7.876 4.4 7.975 3.8027 7.5625 3.3792 8.13175 3.2934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.5875 2.75 10.84325 3.2934 11.4125 3.3792 11 3.8027 11.099 4.4 10.5875 4.1184 10.076 4.4 10.175 3.8027 9.7625 3.3792 10.33175 3.2934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.65 2.75 12.90575 3.2934 13.475 3.3792 13.0625 3.8027 13.1615 4.4 12.65 4.1184 12.1385 4.4 12.2375 3.8027 11.825 3.3792 12.39425 3.2934"></polygon>
+                        <path d="M6.149,2.2 L6.05,1.6027 L6.4625,1.1792 L6.15945,1.13355 C5.8355,1.2925 5.52145,1.46685 5.2162,1.65605 L5.126,2.2 L5.6375,1.9184 L6.149,2.2 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.8375 0.55 8.09325 1.0934 8.6625 1.1792 8.25 1.6027 8.349 2.2 7.8375 1.9184 7.326 2.2 7.425 1.6027 7.0125 1.1792 7.58175 1.0934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.0375 0.55 10.29325 1.0934 10.8625 1.1792 10.45 1.6027 10.549 2.2 10.0375 1.9184 9.526 2.2 9.625 1.6027 9.2125 1.1792 9.78175 1.0934"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.1 0.55 12.35575 1.0934 12.925 1.17975 12.5125 1.60325 12.6115 2.2 12.1 1.9184 11.5885 2.2 11.6875 1.6027 11.275 1.1792 11.84425 1.0934"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

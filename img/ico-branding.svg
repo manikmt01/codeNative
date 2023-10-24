@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>603800C2-D1C9-4D97-A389-3614FFA46E75</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="03-Branding" transform="translate(-299.000000, -173.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Header" transform="translate(286.000000, 158.000000)">
+                <g id="ico-branding" transform="translate(13.000000, 15.000000)">
+                    <path d="M9.09090909,15.4545455 C9.09090909,17.9649307 7.05583977,20 4.54545455,20 C2.03506932,20 0,17.9649307 0,15.4545455 L0,0 L9.09090909,0 L9.09090909,15.4545455 Z" id="Path"></path>
+                    <polyline id="Path" points="9.09090909 10.9090909 20 10.9090909 20 20 4.54545455 20"></polyline>
+                    <circle id="Oval" fill="#FFFFFF" cx="4.5" cy="15.5" r="1"></circle>
+                    <line x1="0" y1="5" x2="9.09090909" y2="5" id="Path"></line>
+                    <line x1="0" y1="10" x2="9.09090909" y2="10" id="Path"></line>
+                    <line x1="15" y1="10.9090909" x2="15" y2="20" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

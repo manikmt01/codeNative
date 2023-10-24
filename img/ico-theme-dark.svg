@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="70px" viewBox="0 0 106 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>65A9F37A-DE44-48CC-9933-04D310BD90A2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="106" height="70"></rect>
+        <rect id="path-3" x="7.96992481" y="8" width="90.0601504" height="80" rx="2"></rect>
+        <filter x="-7.2%" y="-6.9%" width="114.4%" height="116.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="90.4586466" height="80.8" rx="2.16944626"></rect>
+        <path d="M0,0 L90.4586466,0 L90.4586466,68.7816131 C90.4586466,69.9918677 89.4775414,70.972973 88.2672867,70.972973 L2.1913599,70.972973 C0.981105246,70.972973 -1.62814339e-15,69.9918677 0,68.7816131 L0,0 L0,0 Z" id="path-7"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-Learnosity-settings" transform="translate(-292.000000, -409.000000)">
+            <g id="Select-theme" transform="translate(285.000000, 300.000000)">
+                <g id="ico-theme-dark" transform="translate(7.000000, 109.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Rectangle"></g>
+                    <g id="Rectangle" mask="url(#mask-2)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group-9" mask="url(#mask-2)">
+                        <g transform="translate(7.969925, 8.000000)">
+                            <g id="Group-7">
+                                <g id="Group-4">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="#44ABB9" xlink:href="#path-5"></use>
+                                </g>
+                                <rect id="Rectangle" fill="#EEF2F3" x="22.8871275" y="2.72972973" width="46.3191865" height="3.27567568" rx="0.323225599"></rect>
+                                <ellipse id="Oval" fill="#44ABB9" opacity="0.5" style="mix-blend-mode: multiply;" cx="85.0093306" cy="4.36756757" rx="1.08986321" ry="1.09189189"></ellipse>
+                                <ellipse id="Oval" fill="#44ABB9" opacity="0.5" style="mix-blend-mode: multiply;" cx="3.81452124" cy="4.36756757" rx="1.08986321" ry="1.09189189"></ellipse>
+                                <ellipse id="Oval" fill="#44ABB9" opacity="0.5" style="mix-blend-mode: multiply;" cx="7.08411088" cy="4.36756757" rx="1.08986321" ry="1.09189189"></ellipse>
+                            </g>
+                            <g id="Group-3" transform="translate(0.000000, 9.827027)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="Rectangle" fill="#262262" xlink:href="#path-7"></use>
+                                <rect id="Rectangle" fill="#151344" mask="url(#mask-8)" x="0" y="0" width="98.6326207" height="7.0972973"></rect>
+                                <rect id="Rectangle" fill="#151344" mask="url(#mask-8)" x="0" y="12" width="98.6326207" height="1"></rect>
+                                <g id="Group-8" mask="url(#mask-8)">
+                                    <g transform="translate(20.707401, 15.832432)">
+                                        <g id="greek-text-copy-13" opacity="0.100000001" stroke-width="1" fill="none" transform="translate(0.000000, 4.367568)">
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="0" width="31.6060332" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="1.80029581" width="31.2225452" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" opacity="0.2" x="0" y="0.311969112" width="31.2225452" height="1.55984556"></rect>
+                                        </g>
+                                        <g id="greek-text-copy-13" opacity="0.200000003" stroke-width="1" fill="none" transform="translate(0.000000, 32.248649)">
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="0" width="47.9539813" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="1.80029581" width="47.5704934" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" opacity="0.2" x="0" y="0.311969112" width="47.5704934" height="1.55984556"></rect>
+                                        </g>
+                                        <g id="greek-text-copy-13" opacity="0.200000003" stroke-width="1" fill="none" transform="translate(0.000000, 35.524324)">
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="0" width="45.2293233" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" opacity="0.2" x="0" y="0.311969112" width="44.8458353" height="1.55984556"></rect>
+                                        </g>
+                                        <rect id="Rectangle" fill="#262262" opacity="0.5" style="mix-blend-mode: multiply;" x="0" y="8.48108108" width="49.0438446" height="21.8378378"></rect>
+                                        <g id="greek-text-copy-14" opacity="0.200000003" stroke-width="1" fill="none">
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="0" width="40.8698705" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" x="0" y="2.8921877" width="40.4863825" height="1"></rect>
+                                            <rect id="Rectangle-9" fill="#F5F7FA" opacity="0.2" x="0" y="0.467953668" width="40.4863825" height="2.33976834"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="greek-text-copy-13" opacity="0.200000003" mask="url(#mask-8)" fill="#F5F7FA">
+                                    <g transform="translate(4.359453, 8.735135)" id="Rectangle-9">
+                                        <rect x="0" y="0" width="9.80876891" height="1"></rect>
+                                        <rect x="0" y="1.80029581" width="9.42528093" height="1"></rect>
+                                        <rect opacity="0.2" x="0" y="0.311969112" width="9.42528093" height="1.55984556"></rect>
+                                    </g>
+                                </g>
+                                <g id="greek-text-copy-13" opacity="0.200000003" mask="url(#mask-8)" fill="#F5F7FA">
+                                    <g transform="translate(26.156717, 8.735135)" id="Rectangle-9">
+                                        <rect x="0" y="0" width="9.80876891" height="1"></rect>
+                                        <rect x="0" y="1.80029581" width="9.42528093" height="1"></rect>
+                                        <rect opacity="0.2" x="0" y="0.311969112" width="9.42528093" height="1.55984556"></rect>
+                                    </g>
+                                </g>
+                                <g id="greek-text-copy-13" opacity="0.200000003" mask="url(#mask-8)" fill="#F5F7FA">
+                                    <g transform="translate(16.347948, 8.735135)" id="Rectangle-9">
+                                        <rect x="0" y="0" width="7.62904249" height="1"></rect>
+                                        <rect x="0" y="1.80029581" width="7.24555451" height="1"></rect>
+                                        <rect opacity="0.2" x="0" y="0.311969112" width="7.24555451" height="1.55984556"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
