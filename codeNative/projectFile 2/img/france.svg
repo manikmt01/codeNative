@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BF7103FB-8C29-4AA9-8328-8964AE8EE866</title>
+    <defs>
+        <polygon id="path-1" points="241 115 1421 115 1421 930 241 930"></polygon>
+        <filter x="-3.8%" y="-5.5%" width="107.6%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50.0020702%" y1="-0.000771767426%" x2="50.0020581%" y2="99.9989731%" id="linearGradient-3">
+            <stop stop-color="#ED2224" offset="0%"></stop>
+            <stop stop-color="#ED2224" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.9985828%" y1="49.9996173%" x2="0%" y2="49.9996173%" id="linearGradient-4">
+            <stop stop-color="#1A4697" offset="0%"></stop>
+            <stop stop-color="#3150A3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-languages" transform="translate(-300.500000, -456.500000)">
+            <rect fill="#262262" x="0" y="0" width="1661" height="1044"></rect>
+            
+            <g id="Choose-languages" transform="translate(286.000000, 292.000000)">
+                <g id="field/icon-toggle" transform="translate(0.000000, 153.000000)">
+                    <rect id="Rectangle" fill="#F5F7FA" x="0" y="0" width="402" height="45" rx="2"></rect>
+                    <g id="flag" transform="translate(14.500000, 11.500000)" fill-rule="nonzero">
+                        <g id="325972_flag_france_icon">
+                            <path d="M22,11.0002662 C22,6.14453021 18.8527319,2.02661698 14.4874413,0.568006388 L14.4874413,21.4319936 C18.8527319,19.973383 22,15.855736 22,11.0002662 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                            <path d="M0,11.0002662 C0,15.855736 3.14753424,19.973383 7.51282486,21.4319936 L7.51282486,0.568006388 C3.14753424,2.02661698 0,6.14453021 0,11.0002662 Z" id="Path" fill="url(#linearGradient-4)"></path>
+                            <path d="M11,22 C12.2196196,22 13.3910613,21.7982433 14.4877075,21.4317274 L14.4877075,0.568006388 C13.3913275,0.201756721 12.2196196,0 11,0 C9.78064657,0 8.60867251,0.201756721 7.51255868,0.568006388 L7.51255868,21.4319936 C8.60867251,21.7982433 9.78064657,22 11,22 Z" id="Path" fill="#F9F9F9"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8F768B45-6412-4CED-9597-83B4DF668AFC</title>
+    <defs>
+        <polygon id="path-1" points="241 115 1421 115 1421 930 241 930"></polygon>
+        <filter x="-3.8%" y="-5.5%" width="107.6%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-languages" transform="translate(-300.500000, -401.500000)">
+            <rect fill="#262262" x="0" y="0" width="1661" height="1044"></rect>
+           
+            <g id="Choose-languages" transform="translate(286.000000, 292.000000)">
+                <g id="field/icon-toggle" transform="translate(0.000000, 98.000000)">
+                    <rect id="Rectangle" fill="#F5F7FA" x="0" y="0" width="402" height="45" rx="2"></rect>
+                    <g id="flag" transform="translate(14.500000, 11.500000)" fill-rule="nonzero">
+                        <g id="Group">
+                            <path d="M20.6924528,5.79886792 L1.30754717,5.79886792 C3.15886792,2.34528302 6.80339623,0 11,0 C15.1966038,0 18.8411321,2.34528302 20.6924528,5.79886792 Z" id="Path" fill="#F30040"></path>
+                            <path d="M20.6924528,16.2011321 L1.30754717,16.2011321 C0.473207547,14.6528302 0,12.8803774 0,11 C0,9.11962264 0.473207547,7.34716981 1.30754717,5.79886792 L20.6924528,5.79886792 C21.5267925,7.34716981 22,9.11962264 22,11 C22,12.8803774 21.5267925,14.6528302 20.6924528,16.2011321 Z" id="Path" fill="#FFDD00"></path>
+                            <path d="M11,22 C6.80339623,22 3.15886792,19.654717 1.30754717,16.2011321 L20.6924528,16.2011321 C18.8411321,19.654717 15.1966038,22 11,22 Z" id="Path" fill="#F30040"></path>
+                        </g>
+                        <g id="Group" transform="translate(4.528868, 7.682830)">
+                            <path d="M3.98207547,0 L3.98207547,3.64528302 C3.98207547,4.14056604 3.57396226,4.59622642 3.12622642,4.94490566 C2.61509434,5.3490566 2.04849057,5.60660377 1.99301887,5.63037736 L1.9890566,5.63037736 C1.9890566,5.63037736 1.98509434,5.63433962 1.98113208,5.63037736 C1.91377358,5.59867925 1.3590566,5.34113208 0.855849057,4.94886792 C0.408113208,4.60018868 0,4.14056604 0,3.64528302 L0,0 L3.98207547,0 L3.98207547,0 Z" id="Path" fill="#F30040"></path>
+                            <rect id="Rectangle" fill="#FFB500" x="1.99301887" y="0" width="1.99301887" height="2.81716981"></rect>
+                            <path d="M1.99301887,2.81716981 L1.99301887,5.63037736 L1.98113208,5.63037736 C1.91377358,5.59867925 1.3590566,5.34113208 0.855849057,4.94886792 C0.408113208,4.60018868 0,4.14056604 0,3.64528302 L0,2.81716981 L1.99301887,2.81716981 L1.99301887,2.81716981 Z" id="Path" fill="#FFB500"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

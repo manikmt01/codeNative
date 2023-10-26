@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BBB731D8-1E09-46A4-BE90-3779D37E4CC0</title>
+    <defs>
+        <polygon id="path-1" points="241 115 1421 115 1421 930 241 930"></polygon>
+        <filter x="-3.8%" y="-5.5%" width="107.6%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Branding" transform="translate(-959.000000, -304.000000)">
+            <rect fill="#262262" x="0" y="0" width="1661" height="1044"></rect>
+            
+            <g id="Autobrand" transform="translate(286.000000, 225.000000)">
+                <rect id="Rectangle" stroke="#E0E4EA" x="0" y="65" width="815" height="50" rx="2"></rect>
+                <g id="Btn" transform="translate(664.000000, 70.000000)">
+                    <rect id="Rectangle" fill="#F5F7FA" x="0" y="0" width="146" height="40" rx="2"></rect>
+                    <g id="ico" transform="translate(9.000000, 9.000000)">
+                        <g id="Group-15" transform="translate(0.646596, -0.000000)">
+                            <path d="M15.9485977,10.2128448 C16.3773495,10.2128622 16.724997,10.6449598 16.724997,11.1779618 L16.724997,13.0897964 C16.724997,13.6227984 16.3774502,14.0548505 15.9486984,14.0548505 L-0.498603631,14.0519332 C-0.927355505,14.0519158 -1.27500298,13.6198182 -1.27500298,13.0868161 L-1.27500298,11.1749816 C-1.27500298,10.6419796 -0.92745621,10.2099275 -0.498704336,10.2099275 L15.9485977,10.2128448 Z" id="Path" stroke="#262262" stroke-width="2" stroke-linejoin="round" transform="translate(7.724997, 12.132389) rotate(-44.981100) translate(-7.724997, -12.132389) "></path>
+                            <polygon id="Path" fill="#043A5C" points="16.3534039 0 16.3534039 2 14.3534039 2 14.3534039 0"></polygon>
+                            <g id="Group-14" transform="translate(0.353404, 0.000000)" fill="#043A5C">
+                                <rect id="Rectangle" x="2" y="0" width="2" height="6"></rect>
+                                <rect id="Rectangle" x="0" y="2" width="6" height="2"></rect>
+                            </g>
+                            <g id="Group-12" transform="translate(15.353404, 10.000000)" fill="#043A5C">
+                                <rect id="Rectangle" x="3" y="0" width="2" height="8"></rect>
+                                <rect id="Rectangle" x="0" y="3" width="8" height="2"></rect>
+                            </g>
+                            <line x1="10.0365336" y1="7.29641488" x2="12.0563831" y2="9.31613279" id="Path" stroke="#262262" stroke-width="2"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
